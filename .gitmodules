@@ -1,12 +1,16 @@
 [submodule "randivity-API"]
 	path = randivity-API
 	url = git@github.com:Exiels/randivity-API.git
+	branch = main
 [submodule "randivity-mobile"]
 	path = randivity-mobile
 	url = git@github.com:Exiels/randivity-mobile.git
+	branch = main
 [submodule "randivity-discord"]
 	path = randivity-discord
 	url = git@github.com:Exiels/randivity-discord.git
+	branch = main
 [submodule "randivity-web"]
 	path = randivity-web
 	url = git@github.com:Exiels/randivity-web.git
+	branch = main
