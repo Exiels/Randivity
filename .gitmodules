@@ -7,3 +7,6 @@
 [submodule "randivity-discord"]
 	path = randivity-discord
 	url = git@github.com:Exiels/randivity-discord.git
+[submodule "randivity-web"]
+	path = randivity-web
+	url = git@github.com:Exiels/randivity-web.git
