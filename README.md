@@ -5,6 +5,29 @@ Randivity is a project to help you chose an activity randomly from a list for yo
 
 Randivity is available as an API, a Web Application, a Mobile Application and a Discord bot
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:Exiels/Randivity.git
+```
+
+Init submodules
+```bash
+  git submodule update --init
+```
+
+If updates on submodules
+```bash
+  git submodule update --remote
+```
+
+On any submodule
+```bash
+  git checkout main
+```
+
 ## Features
 
 [TO_MODIFY]
